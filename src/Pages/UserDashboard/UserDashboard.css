@@ -1,0 +1,32 @@
+.user_nav li{
+    color:black;
+    
+}
+.user_nav li:hover{
+    background-color: #DCFCE7;
+    color: black;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+.user_nav li:hover .Link::after{
+    background-color: transparent;
+    content: '';
+    position: absolute;
+    right: -20px;
+    bottom: -60px;
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    box-shadow: 40px -40px 0 10px #CAE6D4;
+}
+.user_nav li:hover .Link::before{
+    background-color: transparent;
+    content: '';
+    position: absolute;
+    right: -20px;
+    top: -60px;
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    box-shadow: 40px 40px 0 10px #CAE6D4;
+}

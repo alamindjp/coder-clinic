@@ -1,0 +1,62 @@
+[
+    {
+        "id": "1",
+        "name": "Jannat Nurry",
+        "describe": "Junior MERN Developer",
+        "img": "https://i.ibb.co/3Bb4sSV/nury-6cedf1776f60d6c11f34.png",
+        "about": "Hello I am a juniour web developer.Have a look at some of my works below.If you are interedted you can contact me.See my resume from below button.Thanks in advance!.",
+        "git": "https://github.com/jannatnury",
+        "faceBook": "https://www.facebook.com/jannatnury.60",
+        "linkedin": "https://www.linkedin.com/in/jannat-nury-6aa671141/"
+    },
+    {
+        "id": "2",
+        "name": "Md. Al-Amin",
+        "describe": "Junior MERN Developer",
+        "img": "https://i.ibb.co/bKr3z8t/photos.jpg",
+        "about": "Hello I am a junior front-end web developer with proficiency in front-end technologies like React, JavaScript, HTML, and CSS and familiarity with back-end technologies such as NodeJS and ExpressJS.",
+        "git": "https://github.com/alamindjp",
+        "faceBook": "https://www.facebook.com/alamindjp",
+        "linkedin": "https://www.linkedin.com/in/alamindjp"
+    },
+    {
+        "id": "3",
+        "name": "Injaman Islam",
+        "describe": "Junior MERN Developer",
+        "img": "https://i.ibb.co/KxJ0Qv0/Injaman.jpg",
+        "about": "Hello I am Injamam Islam Chowdhury. I grew up in Chittagong Chandraghona Kaptai. I have Completed my Graduation and Post Graduation from Govt. City college, Chittagong. I Love Coding. Thats Why I have Chosen Web Development and I want to build my Successfull Career in this Field.",
+        "git": "https://github.com/akilinjamam",
+        "faceBook": "https://www.facebook.com/akil.injamam",
+        "linkedin": "https://www.linkedin.com/in/injamam-islam-chowdhury-482574158/"
+    },
+    {
+        "id": "4",
+        "name": "PARVEZ MIAH",
+        "describe": "Junior MERN Developer",
+        "img": "https://i.ibb.co/jWF0PVS/parvez-profile.jpg",
+        "about": "Hello I design and develop services for customers specializing creating stylish, modern websites, web services and online stores. My passion is to design digital user experiences through meaningful interactions.",
+        "git": "https://github.com/Parvez-Rahman100",
+        "faceBook": "https://www.facebook.com/parvez.rahman.144",
+        "linkedin": "https://www.linkedin.com/in/parvez-miah-945910229"
+    },
+    {
+        "id": "5",
+        "name": "Soroar Mia",
+        "describe": "Junior MERN Developer",
+        "img": "https://i.ibb.co/m43VP9Q/Soroar.jpg",
+        "about": "Hello I design and develop services for customers specializing creating stylish, modern websites, web services and online stores. My passion is to design digital user experiences through meaningful interactions.",
+        "git": "https://github.com/",
+        "faceBook": "https://www.facebook.com/soroarhossainmia",
+        "linkedin": "https://www.linkedin.com"
+    },
+    {
+        "id": "6",
+        "name": "Murshid Mahbub",
+        "describe": "Junior MERN Developer",
+        "img": "https://i.ibb.co/k2MGG76/Morshid.jpg",
+        "about": "Hello I'm Mahbub belong to (Dhaka) Bangladesh I am personally so motivated regarding my work, and I always try my best to achieve goals and objectives. My field is Fullstack web application, 3d Model, and Game Asset creation",
+        "git": "https://github.com/MahbubMorshed",
+        "faceBook": "https://www.facebook.com/mahbub.morshed.1004",
+        "linkedin": "https://www.linkedin.com/in/mahbub-morshed/"
+    }
+]

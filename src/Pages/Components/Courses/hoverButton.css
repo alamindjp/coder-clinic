@@ -1,0 +1,9 @@
+.hoverButton {
+    display: none;
+}
+
+.hoverVisible:hover .hoverButton {
+
+    display: block;
+
+}
